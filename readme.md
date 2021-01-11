@@ -10,7 +10,7 @@ CloudBase 提供开发应用所需服务和基础设施。TCB Java SDK 让您可
 ```xml
 <dependency>
     <groupId>com.tencent.cloudbase</groupId>
-    <artifactId>tcb-java-sdk</artifactId>
+    <artifactId>cloudbase-java-sdk</artifactId>
 </dependency>
 ```
 
